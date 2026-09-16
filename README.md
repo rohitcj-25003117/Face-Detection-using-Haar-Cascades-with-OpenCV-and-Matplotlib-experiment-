@@ -1,4 +1,4 @@
-# Face Detection using Haar Cascades with OpenCV and Matplotlib
+# ex 12 Face Detection using Haar Cascades with OpenCV and Matplotlib
 
 **Developed by:** C J Rohit
 **Register No:** 212224243005
